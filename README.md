@@ -1,7 +1,11 @@
 ## Oi eu sou a Diego Marques!
 
 
-- 🔭 Trabalho para acelerar a entrega de software!
+- 🔭 Atualmente, estou trabalhando como DevOps e DevEx.
+- 🌱 Sou apaixonado por tecnologias open source, cloud native e Linux.
+- 👯 Estou sempre em busca de aprender coisas novas e melhorar minhas habilidades.
+- 💬 Pergunte-me sobre automação, experiência do desenvolvedor, infraestrutura como código e ferramentas DevOps.
+- ⚡ Curiosidade divertida: Adoro descobrir novas ferramentas, otimizar processos e ler as obras de J.R.R. Tolkien!
 
   
 ##
